@@ -16,6 +16,8 @@ const INSTITUTIONS: Institution[] = [
   { name: "BakeAI", logo: "/institutions/bakeai.png", scale: 0.9 },
   { name: "Michigan State University", logo: "/institutions/msu.png", scale: 0.95 },
   { name: "UC Berkeley", logo: "/institutions/berkeley.png", scale: 1.05 },
+  { name: "Northwestern University", logo: "/institutions/northwestern.svg", scale: 1.1 },
+  { name: "University of Chicago", logo: "/institutions/uchicago.svg", scale: 1.05 },
 ];
 
 // Uniform box height — every logo renders at the same height; width flexes with the grid.
@@ -28,7 +30,7 @@ export default function Partners() {
     <section className="py-14 px-5 sm:px-8 border-t border-[var(--rule)]">
       <div className="mx-auto max-w-6xl">
         <p className="label mb-8 text-center">In collaboration with</p>
-        <div className="grid grid-cols-3 sm:grid-cols-5 md:grid-cols-9 items-center gap-x-3 md:gap-x-2 gap-y-8">
+        <div className="grid grid-cols-3 sm:grid-cols-5 md:grid-cols-11 items-center gap-x-3 md:gap-x-2 gap-y-8">
           {INSTITUTIONS.map((inst) => {
             const s = inst.scale ?? 1;
             return (
