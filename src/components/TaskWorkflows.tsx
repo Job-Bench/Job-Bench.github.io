@@ -410,7 +410,7 @@ export default function TaskWorkflows() {
                 <span className="break-words">{task.role}</span>
               </h3>
               <div className="flex items-center gap-2 shrink-0">
-                <span className="label">Automation desire</span>
+                <span className="label">Automation will</span>
                 <DesireDial value={task.desire} />
               </div>
             </div>
@@ -429,7 +429,7 @@ export default function TaskWorkflows() {
               className="w-full flex items-center justify-between gap-2 text-[11px] font-mono text-[var(--ink-faint)] hover:text-[var(--accent)] transition-colors py-1"
             >
               <span>
-                {heroOpenMobile ? "Hide why desired" : "Show why desired"}
+                {heroOpenMobile ? "Hide why" : "Show why"}
               </span>
               <span aria-hidden>{heroOpenMobile ? "▲" : "▼"}</span>
             </button>
@@ -447,7 +447,7 @@ export default function TaskWorkflows() {
                     className="label mr-1"
                     style={{ color: "var(--warn)" }}
                   >
-                    Why desired
+                    Why
                   </span>
                   {task.why}
                 </p>

@@ -5,7 +5,7 @@ import { useState } from "react";
 const PRINCIPLES = [
   {
     num: "i",
-    title: "Human-desire grounded",
+    title: "Human-will grounded",
     line: "Built on 1,500+ professionals rating which of their own tasks they want delegated to AI.",
   },
   {

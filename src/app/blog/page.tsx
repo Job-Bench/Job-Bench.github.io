@@ -19,7 +19,7 @@ const SECTIONS = [
 ];
 
 export const metadata: Metadata = {
-  title: "Aligning Agent Work With Human Desire — JobBench",
+  title: "Aligning Agent Work With Human Will — JobBench",
   description:
     "Why JobBench measures AI agents by what professionals actually want automated, not by GDP exposure alone.",
 };
@@ -115,7 +115,7 @@ const CASES: {
 const ROW_META = [
   {
     key: "desire",
-    label: "Real expert-reported desire",
+    label: "Real expert-reported will",
     bg: "#e8ddc9",
     stripe: "#c9a66a",
     ink: "#3d3220",
@@ -221,14 +221,14 @@ export default function BlogPost() {
             >
               JobBench: Aligning Agent Work with{" "}
               <span className="font-emph text-[var(--accent)] align-middle">
-                Human Desire
+                Human Will
               </span>
             </h1>
 
             <p className="text-[14.5px] text-[var(--ink-soft)] leading-[1.65] mb-10 max-w-[58ch]">
               Measuring agents by GDP alone asks how much of a human&apos;s job
               can be <span className="chip-dark">taken away</span>. Measuring
-              agents by human desire asks how much of that job can be{" "}
+              agents by human will asks how much of that job can be{" "}
               <span className="chip-accent">given back</span>.
             </p>
           </Reveal>
@@ -325,9 +325,9 @@ export default function BlogPost() {
                 each O*NET task summary of their own occupation, indicate
                 whether they would want an AI agent to take that work over.
                 From Workbank we selected the 30+ occupations at the
-                intersection of high average worker desire for automation and
+                intersection of high average worker will for automation and
                 high economic impact. Within each occupation, we sampled the
-                task summaries rated highest in automation desire and, through
+                task summaries rated highest in automation will and, through
                 annotators, experts, and AI assistance, designed them into
                 full benchmark evaluations.
               </p>
@@ -367,7 +367,7 @@ export default function BlogPost() {
               <div className="mb-4 px-2 sm:px-8">
                 <div className="label mb-1.5">Case study</div>
                 <p className="font-display text-[17px] sm:text-[19px] text-[var(--ink)] leading-snug max-w-[60ch]" style={{ fontWeight: 500 }}>
-                  JobBench aligns better with human desire.
+                  JobBench aligns better with human will.
                 </p>
                 <p className="text-[13px] text-[var(--ink-soft)] mt-1.5 max-w-[70ch] leading-relaxed">
                 </p>
@@ -494,7 +494,7 @@ export default function BlogPost() {
               >
                 Measuring agents by GDP alone asks how much of a human&apos;s
                 job can be <span className="chip-dark">taken away</span>.
-                Measuring agents by human desire asks how much of that job
+                Measuring agents by human will asks how much of that job
                 can be <span className="chip-accent">given back</span>. That is
                 the premise of JobBench — a picture that economics cannot
                 complete alone.

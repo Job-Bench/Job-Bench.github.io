@@ -33,13 +33,13 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "JobBench — Aligning Agent Work with Human Desire",
+  title: "JobBench — Aligning Agent Work with Human Will",
   description:
     "Measuring agents by GDP alone asks how much of a human's job can be taken away. JobBench asks how much can be given back — built on the work experts across 35 professions actually want delegated to AI.",
   openGraph: {
     title: "JobBench Benchmark",
     description:
-      "Aligning agent work with human desire — 35 professions, graded against 2,066 fact-anchored criteria, evaluated by what workers actually want automated.",
+      "Aligning agent work with human will — 35 professions, graded against 2,066 fact-anchored criteria, evaluated by what workers actually want automated.",
     type: "website",
   },
 };

@@ -24,7 +24,7 @@ export default function Hero() {
             className="font-emph text-[var(--accent)]"
             style={{ fontStyle: "italic" }}
           >
-            Human Desire
+            Human Will
           </em>
         </h1>
 

@@ -53,7 +53,7 @@ export default function Thesis() {
             className="label mb-4"
             style={{ fontSize: "13px", letterSpacing: "0.18em" }}
           >
-            § 01 — Why Human Desire
+            § 01 — Why Human Will
           </div>
 
           <div className="grid gap-x-10 gap-y-8 md:grid-cols-[minmax(0,1fr)_auto] md:items-end mb-8">
