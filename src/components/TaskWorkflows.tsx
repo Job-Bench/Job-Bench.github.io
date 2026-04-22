@@ -410,7 +410,7 @@ export default function TaskWorkflows() {
                 <span className="break-words">{task.role}</span>
               </h3>
               <div className="flex items-center gap-2 shrink-0">
-                <span className="label">Automation will</span>
+                <span className="label">Automation desire</span>
                 <DesireDial value={task.desire} />
               </div>
             </div>
