@@ -1,22 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 52" fill="none">
-  <!-- Shield icon -->
-  <path d="M12 6 L28 6 L28 30 Q20 38 12 42 Q4 38 4 30 Z" fill="#800000"/>
-  <text x="20" y="22" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="bold">UofC</text>
-  <!-- Text -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 52" fill="none">
   <text
-    x="36" y="16"
-    font-family="Arial, sans-serif"
-    font-size="9.5"
+    x="130" y="18"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="10"
     font-weight="700"
     fill="#800000"
-    letter-spacing="0.8"
+    text-anchor="middle"
+    letter-spacing="2"
   >THE UNIVERSITY OF</text>
   <text
-    x="36" y="30"
-    font-family="Arial, sans-serif"
-    font-size="13"
+    x="130" y="40"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="20"
     font-weight="700"
     fill="#800000"
-    letter-spacing="0.5"
+    text-anchor="middle"
+    letter-spacing="1"
   >CHICAGO</text>
 </svg>
