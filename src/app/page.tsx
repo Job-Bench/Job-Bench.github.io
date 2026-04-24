@@ -34,7 +34,7 @@ export default function Home() {
   title   = {JobBench: Aligning Agent Work with Human Will},
   author  = {JobBench Team},
   year    = {2026},
-  url     = {https://job-bench.github.io/}
+  url     = {https://github.com/Job-Bench/job-bench-eval}
 }`}</pre>
           </div>
         </section>
