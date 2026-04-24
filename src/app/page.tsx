@@ -26,6 +26,18 @@ export default function Home() {
           <PixelDivider />
         </div>
         <ScoreBreakdown />
+
+        <section className="py-14 px-5 sm:px-8 border-t border-[var(--rule)]">
+          <div className="mx-auto max-w-6xl">
+            <p className="label mb-3">Cite</p>
+            <pre className="text-[11.5px] font-mono text-[var(--ink-soft)] bg-[var(--paper-raised)] border border-[var(--rule)] rounded-md px-5 py-4 overflow-x-auto leading-[1.75] whitespace-pre">{`@misc{jobbench-2026,
+  title   = {JobBench: Aligning Agent Work with Human Will},
+  author  = {JobBench Team},
+  year    = {2026},
+  url     = {https://job-bench.github.io/}
+}`}</pre>
+          </div>
+        </section>
       </main>
       <Footer />
     </>
