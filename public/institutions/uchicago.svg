@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 52" fill="none">
+  <text
+    x="130" y="18"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="10"
+    font-weight="700"
+    fill="#800000"
+    text-anchor="middle"
+    letter-spacing="2"
+  >THE UNIVERSITY OF</text>
+  <text
+    x="130" y="40"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="20"
+    font-weight="700"
+    fill="#800000"
+    text-anchor="middle"
+    letter-spacing="1"
+  >CHICAGO</text>
+</svg>
