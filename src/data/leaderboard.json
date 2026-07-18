@@ -586,6 +586,21 @@
     },
     {
       "rank": 3,
+      "model": "kimi-k3-opencode",
+      "displayName": "Kimi K3",
+      "family": "Moonshot",
+      "framework": "OpenCode",
+      "overallScore": 52.9,
+      "totalScore": 0,
+      "maxScore": 0,
+      "tasksEvaluated": 65,
+      "rubricsPassed": 0,
+      "rubricsTotal": 0,
+      "rubricPassRate": 0,
+      "categoryBreakdown": {}
+    },
+    {
+      "rank": 4,
       "model": "claude-opus-4-8-opencode",
       "displayName": "Claude Opus 4.8",
       "family": "Anthropic",
@@ -865,7 +880,22 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "model": "gpt-5-6-sol-opencode",
+      "displayName": "GPT-5.6 SOL",
+      "family": "OpenAI",
+      "framework": "OpenCode",
+      "overallScore": 45.38,
+      "totalScore": 0,
+      "maxScore": 0,
+      "tasksEvaluated": 65,
+      "rubricsPassed": 0,
+      "rubricsTotal": 0,
+      "rubricPassRate": 0,
+      "categoryBreakdown": {}
+    },
+    {
+      "rank": 6,
       "model": "claude-opus-4-7-opencode",
       "displayName": "Claude Opus 4.7",
       "family": "Anthropic",
@@ -1161,7 +1191,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 7,
       "model": "glm-5-2-opencode",
       "displayName": "GLM 5.2",
       "family": "Zhipu",
@@ -1457,7 +1487,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 8,
       "model": "gpt-5-5-opencode",
       "displayName": "GPT-5.5",
       "family": "OpenAI",
@@ -1753,7 +1783,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 9,
       "model": "claude-sonnet-4-6-opencode",
       "displayName": "Claude Sonnet 4.6",
       "family": "Anthropic",
@@ -2049,7 +2079,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 10,
       "model": "gpt-5-4-opencode",
       "displayName": "GPT-5.4",
       "family": "OpenAI",
@@ -2064,7 +2094,7 @@
       "categoryBreakdown": {}
     },
     {
-      "rank": 9,
+      "rank": 11,
       "model": "gemini-3-5-flash-opencode",
       "displayName": "Gemini 3.5 Flash",
       "family": "Google",
@@ -2360,7 +2390,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 12,
       "model": "gpt-5-2-opencode",
       "displayName": "GPT-5.2",
       "family": "OpenAI",
@@ -2375,7 +2405,7 @@
       "categoryBreakdown": {}
     },
     {
-      "rank": 11,
+      "rank": 13,
       "model": "claude-sonnet-4-5-opencode",
       "displayName": "Claude Sonnet 4.5",
       "family": "Anthropic",
@@ -2671,7 +2701,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 14,
       "model": "gemini-3-1-pro-opencode",
       "displayName": "Gemini 3.1 Pro",
       "family": "Google",
@@ -3079,7 +3109,7 @@
     "web_administrators": 1
   },
   "totalTasks": 65,
-  "totalModels": 12,
+  "totalModels": 14,
   "totalCategories": 35,
   "totalRubrics": 569,
   "totalCriteria": 2066
