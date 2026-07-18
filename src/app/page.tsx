@@ -1,6 +1,7 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import Partners from "@/components/Partners";
+import AdoptedBy from "@/components/AdoptedBy";
 import Thesis from "@/components/Thesis";
 import Leaderboard from "@/components/Leaderboard";
 import SaturationCompare from "@/components/SaturationCompare";
@@ -17,6 +18,7 @@ export default function Home() {
       <main className="flex-1">
         <Hero />
         <Partners />
+        <AdoptedBy />
         <Thesis />
         <Leaderboard />
         <SaturationCompare />
