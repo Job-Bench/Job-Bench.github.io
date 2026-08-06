@@ -7,6 +7,7 @@ type Adopter = {
 const ADOPTERS: Adopter[] = [
   { model: "Muse Spark 1.1", org: "Meta", logo: "/logos/meta.png" },
   { model: "Kimi K3", org: "Moonshot", logo: "/logos/moonshot.png" },
+  { model: "Qwen 3.8 Max", org: "Alibaba", logo: "/logos/qwen.png" },
 ];
 
 export default function AdoptedBy() {
@@ -14,10 +15,19 @@ export default function AdoptedBy() {
     <section className="py-12 px-5 sm:px-8 border-t border-[var(--rule)]">
       <div className="mx-auto max-w-3xl text-center">
         <p className="label mb-4">Adopted by</p>
-        <p className="text-[15px] sm:text-[16px] leading-[1.6] text-[var(--ink-soft)] mb-6">
-          JobBench has been adopted by Meta&apos;s{" "}
-          <span className="chip-accent">Muse Spark 1.1</span> and Moonshot&apos;s{" "}
-          <span className="chip-accent">Kimi K3</span>{" "}
+        <p className="text-balance text-[15px] sm:text-[16px] leading-[1.6] text-[var(--ink-soft)] mb-6">
+          JobBench has been adopted by{" "}
+          <span className="whitespace-nowrap">
+            Meta&apos;s <span className="chip-accent">Muse Spark 1.1</span>
+          </span>
+          ,{" "}
+          <span className="whitespace-nowrap">
+            Moonshot&apos;s <span className="chip-accent">Kimi K3</span>
+          </span>
+          , and{" "}
+          <span className="whitespace-nowrap">
+            Alibaba&apos;s <span className="chip-accent">Qwen 3.8 Max</span>
+          </span>{" "}
           <span aria-hidden>🎉</span>
         </p>
         <div className="flex flex-wrap items-center justify-center gap-3">
