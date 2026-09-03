@@ -2,6 +2,36 @@
   "leaderboard": [
     {
       "rank": 1,
+      "model": "claude-opus-5-opencode",
+      "displayName": "Claude Opus 5",
+      "family": "Anthropic",
+      "framework": "OpenCode",
+      "overallScore": 65.7,
+      "totalScore": 0,
+      "maxScore": 0,
+      "tasksEvaluated": 65,
+      "rubricsPassed": 0,
+      "rubricsTotal": 0,
+      "rubricPassRate": 0,
+      "categoryBreakdown": {}
+    },
+    {
+      "rank": 2,
+      "model": "muse-spark-1-3-opencode",
+      "displayName": "Muse Spark 1.3",
+      "family": "Meta",
+      "framework": "OpenCode",
+      "overallScore": 64.9,
+      "totalScore": 0,
+      "maxScore": 0,
+      "tasksEvaluated": 65,
+      "rubricsPassed": 0,
+      "rubricsTotal": 0,
+      "rubricPassRate": 0,
+      "categoryBreakdown": {}
+    },
+    {
+      "rank": 3,
       "model": "muse-spark-1-2-opencode",
       "displayName": "Muse Spark 1.2",
       "family": "Meta",
@@ -16,7 +46,7 @@
       "categoryBreakdown": {}
     },
     {
-      "rank": 2,
+      "rank": 4,
       "model": "claude-fable-5-opencode",
       "displayName": "Claude Fable 5",
       "family": "Anthropic",
@@ -304,7 +334,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 5,
       "model": "muse-spark-1-1-opencode",
       "displayName": "Muse Spark 1.1",
       "family": "Meta",
@@ -600,7 +630,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 6,
       "model": "kimi-k3-opencode",
       "displayName": "Kimi K3",
       "family": "Moonshot",
@@ -896,7 +926,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 7,
       "model": "qwen3.8-max-opencode",
       "displayName": "Qwen 3.8 Max",
       "family": "Alibaba",
@@ -1192,7 +1222,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 8,
       "model": "claude-opus-4-8-opencode",
       "displayName": "Claude Opus 4.8",
       "family": "Anthropic",
@@ -1472,7 +1502,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 9,
       "model": "gpt-5-6-sol-opencode",
       "displayName": "GPT-5.6 SOL",
       "family": "OpenAI",
@@ -1768,7 +1798,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 10,
       "model": "claude-opus-4-7-opencode",
       "displayName": "Claude Opus 4.7",
       "family": "Anthropic",
@@ -2064,7 +2094,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 11,
       "model": "glm-5-2-opencode",
       "displayName": "GLM 5.2",
       "family": "Zhipu",
@@ -2360,7 +2390,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 12,
       "model": "gpt-5-5-opencode",
       "displayName": "GPT-5.5",
       "family": "OpenAI",
@@ -2656,7 +2686,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 13,
       "model": "claude-sonnet-4-6-opencode",
       "displayName": "Claude Sonnet 4.6",
       "family": "Anthropic",
@@ -2952,7 +2982,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 14,
       "model": "gpt-5-4-opencode",
       "displayName": "GPT-5.4",
       "family": "OpenAI",
@@ -2967,7 +2997,7 @@
       "categoryBreakdown": {}
     },
     {
-      "rank": 13,
+      "rank": 15,
       "model": "gemini-3-5-flash-opencode",
       "displayName": "Gemini 3.5 Flash",
       "family": "Google",
@@ -3263,7 +3293,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 16,
       "model": "gpt-5-2-opencode",
       "displayName": "GPT-5.2",
       "family": "OpenAI",
@@ -3278,7 +3308,7 @@
       "categoryBreakdown": {}
     },
     {
-      "rank": 15,
+      "rank": 17,
       "model": "claude-sonnet-4-5-opencode",
       "displayName": "Claude Sonnet 4.5",
       "family": "Anthropic",
@@ -3574,7 +3604,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 18,
       "model": "gemini-3-1-pro-opencode",
       "displayName": "Gemini 3.1 Pro",
       "family": "Google",
