@@ -47,6 +47,302 @@
     },
     {
       "rank": 4,
+      "model": "glm-5-3-opencode",
+      "displayName": "GLM-5.3",
+      "family": "Zhipu",
+      "framework": "OpenCode",
+      "overallScore": 61.42,
+      "totalScore": 2764,
+      "maxScore": 4500,
+      "tasksEvaluated": 65,
+      "rubricsPassed": 366,
+      "rubricsTotal": 569,
+      "rubricPassRate": 64.32,
+      "categoryBreakdown": {
+        "biostatisticians": {
+          "score": 76,
+          "max_score": 130,
+          "score_pct": 58.46,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 9,
+          "rubrics_total": 15
+        },
+        "bookkeeping_accounting_and_auditing_clerks": {
+          "score": 68,
+          "max_score": 140,
+          "score_pct": 48.57,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 9,
+          "rubrics_total": 18
+        },
+        "civil_engineers": {
+          "score": 148,
+          "max_score": 194,
+          "score_pct": 76.29,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 20,
+          "rubrics_total": 25
+        },
+        "computer_and_information_research_scientists": {
+          "score": 78,
+          "max_score": 148,
+          "score_pct": 52.7,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 10,
+          "rubrics_total": 19
+        },
+        "computer_and_information_systems_managers": {
+          "score": 46,
+          "max_score": 118,
+          "score_pct": 38.98,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 7,
+          "rubrics_total": 15
+        },
+        "computer_user_support_specialists": {
+          "score": 82,
+          "max_score": 138,
+          "score_pct": 59.42,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 11,
+          "rubrics_total": 18
+        },
+        "court_clerks": {
+          "score": 34,
+          "max_score": 76,
+          "score_pct": 44.74,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 5,
+          "rubrics_total": 10
+        },
+        "customer_service_representatives": {
+          "score": 44,
+          "max_score": 76,
+          "score_pct": 57.89,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 6,
+          "rubrics_total": 10
+        },
+        "data_entry_keyers": {
+          "score": 94,
+          "max_score": 152,
+          "score_pct": 61.84,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 13,
+          "rubrics_total": 20
+        },
+        "financial_managers_branch_or_department": {
+          "score": 144,
+          "max_score": 156,
+          "score_pct": 92.31,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 18,
+          "rubrics_total": 20
+        },
+        "human_resources_specialists": {
+          "score": 54,
+          "max_score": 64,
+          "score_pct": 84.38,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 7,
+          "rubrics_total": 8
+        },
+        "lawyers": {
+          "score": 42,
+          "max_score": 48,
+          "score_pct": 87.5,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 7,
+          "rubrics_total": 8
+        },
+        "licensing_examiners_and_inspectors": {
+          "score": 56,
+          "max_score": 72,
+          "score_pct": 77.78,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 8,
+          "rubrics_total": 10
+        },
+        "management_analysts": {
+          "score": 82,
+          "max_score": 240,
+          "score_pct": 34.17,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 11,
+          "rubrics_total": 28
+        },
+        "mechanical_engineering_technicians": {
+          "score": 144,
+          "max_score": 206,
+          "score_pct": 69.9,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 20,
+          "rubrics_total": 27
+        },
+        "mechanical_engineers": {
+          "score": 54,
+          "max_score": 66,
+          "score_pct": 81.82,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 7,
+          "rubrics_total": 9
+        },
+        "medical_and_health_services_managers": {
+          "score": 82,
+          "max_score": 160,
+          "score_pct": 51.25,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 9,
+          "rubrics_total": 17
+        },
+        "medical_secretaries": {
+          "score": 42,
+          "max_score": 78,
+          "score_pct": 53.85,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 6,
+          "rubrics_total": 10
+        },
+        "online_merchants": {
+          "score": 78,
+          "max_score": 112,
+          "score_pct": 69.64,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 11,
+          "rubrics_total": 15
+        },
+        "personal_financial_advisors": {
+          "score": 42,
+          "max_score": 78,
+          "score_pct": 53.85,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 5,
+          "rubrics_total": 9
+        },
+        "petroleum_engineers": {
+          "score": 26,
+          "max_score": 50,
+          "score_pct": 52.0,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 3,
+          "rubrics_total": 6
+        },
+        "police_fire_and_ambulance_dispatchers": {
+          "score": 34,
+          "max_score": 94,
+          "score_pct": 36.17,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 4,
+          "rubrics_total": 10
+        },
+        "producers": {
+          "score": 72,
+          "max_score": 72,
+          "score_pct": 100.0,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 9,
+          "rubrics_total": 9
+        },
+        "purchasing_agents_except_wholesale_retail_and_farm_products": {
+          "score": 180,
+          "max_score": 262,
+          "score_pct": 68.7,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 22,
+          "rubrics_total": 31
+        },
+        "reporters_and_correspondents": {
+          "score": 44,
+          "max_score": 60,
+          "score_pct": 73.33,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 6,
+          "rubrics_total": 8
+        },
+        "sales_agents_securities_and_commodities": {
+          "score": 40,
+          "max_score": 74,
+          "score_pct": 54.05,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 4,
+          "rubrics_total": 8
+        },
+        "sales_representatives_wholesale_and_manufacturing_technical_and_scientific_products": {
+          "score": 122,
+          "max_score": 186,
+          "score_pct": 65.59,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 14,
+          "rubrics_total": 21
+        },
+        "secretaries_and_administrative_assistants_except_legal_medical_and_executive": {
+          "score": 52,
+          "max_score": 108,
+          "score_pct": 48.15,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 7,
+          "rubrics_total": 13
+        },
+        "social_science_research_assistants": {
+          "score": 130,
+          "max_score": 184,
+          "score_pct": 70.65,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 18,
+          "rubrics_total": 25
+        },
+        "sociology_teachers_postsecondary": {
+          "score": 128,
+          "max_score": 206,
+          "score_pct": 62.14,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 16,
+          "rubrics_total": 25
+        },
+        "statisticians": {
+          "score": 150,
+          "max_score": 236,
+          "score_pct": 63.56,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 19,
+          "rubrics_total": 28
+        },
+        "supply_chain_managers": {
+          "score": 24,
+          "max_score": 104,
+          "score_pct": 23.08,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 4,
+          "rubrics_total": 14
+        },
+        "technical_writers": {
+          "score": 134,
+          "max_score": 210,
+          "score_pct": 63.81,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 20,
+          "rubrics_total": 30
+        },
+        "training_and_development_specialists": {
+          "score": 108,
+          "max_score": 152,
+          "score_pct": 71.05,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 16,
+          "rubrics_total": 22
+        },
+        "web_administrators": {
+          "score": 30,
+          "max_score": 50,
+          "score_pct": 60.0,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 5,
+          "rubrics_total": 8
+        }
+      }
+    },
+    {
+      "rank": 5,
       "model": "claude-fable-5-opencode",
       "displayName": "Claude Fable 5",
       "family": "Anthropic",
@@ -334,7 +630,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "model": "muse-spark-1-1-opencode",
       "displayName": "Muse Spark 1.1",
       "family": "Meta",
@@ -630,7 +926,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "model": "kimi-k3-opencode",
       "displayName": "Kimi K3",
       "family": "Moonshot",
@@ -926,7 +1222,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "model": "qwen3.8-max-opencode",
       "displayName": "Qwen 3.8 Max",
       "family": "Alibaba",
@@ -1222,7 +1518,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "model": "claude-opus-4-8-opencode",
       "displayName": "Claude Opus 4.8",
       "family": "Anthropic",
@@ -1502,7 +1798,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "model": "gpt-5-6-sol-opencode",
       "displayName": "GPT-5.6 SOL",
       "family": "OpenAI",
@@ -1798,7 +2094,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "model": "claude-opus-4-7-opencode",
       "displayName": "Claude Opus 4.7",
       "family": "Anthropic",
@@ -2094,7 +2390,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "model": "glm-5-2-opencode",
       "displayName": "GLM 5.2",
       "family": "Zhipu",
@@ -2390,7 +2686,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "model": "gpt-5-5-opencode",
       "displayName": "GPT-5.5",
       "family": "OpenAI",
@@ -2686,7 +2982,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "model": "claude-sonnet-4-6-opencode",
       "displayName": "Claude Sonnet 4.6",
       "family": "Anthropic",
@@ -2982,7 +3278,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "model": "gpt-5-4-opencode",
       "displayName": "GPT-5.4",
       "family": "OpenAI",
@@ -2997,7 +3293,7 @@
       "categoryBreakdown": {}
     },
     {
-      "rank": 15,
+      "rank": 16,
       "model": "gemini-3-5-flash-opencode",
       "displayName": "Gemini 3.5 Flash",
       "family": "Google",
@@ -3293,7 +3589,599 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
+      "model": "inkling-opencode",
+      "displayName": "Inkling",
+      "family": "Thinking Machines",
+      "framework": "OpenCode",
+      "overallScore": 31.07,
+      "totalScore": 1398,
+      "maxScore": 4500,
+      "tasksEvaluated": 65,
+      "rubricsPassed": 193,
+      "rubricsTotal": 569,
+      "rubricPassRate": 33.92,
+      "categoryBreakdown": {
+        "biostatisticians": {
+          "score": 54,
+          "max_score": 130,
+          "score_pct": 41.54,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 6,
+          "rubrics_total": 15
+        },
+        "bookkeeping_accounting_and_auditing_clerks": {
+          "score": 18,
+          "max_score": 140,
+          "score_pct": 12.86,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 3,
+          "rubrics_total": 18
+        },
+        "civil_engineers": {
+          "score": 110,
+          "max_score": 194,
+          "score_pct": 56.7,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 15,
+          "rubrics_total": 25
+        },
+        "computer_and_information_research_scientists": {
+          "score": 28,
+          "max_score": 148,
+          "score_pct": 18.92,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 4,
+          "rubrics_total": 19
+        },
+        "computer_and_information_systems_managers": {
+          "score": 14,
+          "max_score": 118,
+          "score_pct": 11.86,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 2,
+          "rubrics_total": 15
+        },
+        "computer_user_support_specialists": {
+          "score": 56,
+          "max_score": 138,
+          "score_pct": 40.58,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 8,
+          "rubrics_total": 18
+        },
+        "court_clerks": {
+          "score": 12,
+          "max_score": 76,
+          "score_pct": 15.79,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 2,
+          "rubrics_total": 10
+        },
+        "customer_service_representatives": {
+          "score": 28,
+          "max_score": 76,
+          "score_pct": 36.84,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 4,
+          "rubrics_total": 10
+        },
+        "data_entry_keyers": {
+          "score": 80,
+          "max_score": 152,
+          "score_pct": 52.63,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 11,
+          "rubrics_total": 20
+        },
+        "financial_managers_branch_or_department": {
+          "score": 58,
+          "max_score": 156,
+          "score_pct": 37.18,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 8,
+          "rubrics_total": 20
+        },
+        "human_resources_specialists": {
+          "score": 36,
+          "max_score": 64,
+          "score_pct": 56.25,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 4,
+          "rubrics_total": 8
+        },
+        "lawyers": {
+          "score": 24,
+          "max_score": 48,
+          "score_pct": 50.0,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 4,
+          "rubrics_total": 8
+        },
+        "licensing_examiners_and_inspectors": {
+          "score": 48,
+          "max_score": 72,
+          "score_pct": 66.67,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 7,
+          "rubrics_total": 10
+        },
+        "management_analysts": {
+          "score": 44,
+          "max_score": 240,
+          "score_pct": 18.33,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 6,
+          "rubrics_total": 28
+        },
+        "mechanical_engineering_technicians": {
+          "score": 54,
+          "max_score": 206,
+          "score_pct": 26.21,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 9,
+          "rubrics_total": 27
+        },
+        "mechanical_engineers": {
+          "score": 12,
+          "max_score": 66,
+          "score_pct": 18.18,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 2,
+          "rubrics_total": 9
+        },
+        "medical_and_health_services_managers": {
+          "score": 52,
+          "max_score": 160,
+          "score_pct": 32.5,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 6,
+          "rubrics_total": 17
+        },
+        "medical_secretaries": {
+          "score": 26,
+          "max_score": 78,
+          "score_pct": 33.33,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 4,
+          "rubrics_total": 10
+        },
+        "online_merchants": {
+          "score": 36,
+          "max_score": 112,
+          "score_pct": 32.14,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 5,
+          "rubrics_total": 15
+        },
+        "personal_financial_advisors": {
+          "score": 14,
+          "max_score": 78,
+          "score_pct": 17.95,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 2,
+          "rubrics_total": 9
+        },
+        "petroleum_engineers": {
+          "score": 0,
+          "max_score": 50,
+          "score_pct": 0.0,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 0,
+          "rubrics_total": 6
+        },
+        "police_fire_and_ambulance_dispatchers": {
+          "score": 34,
+          "max_score": 94,
+          "score_pct": 36.17,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 4,
+          "rubrics_total": 10
+        },
+        "producers": {
+          "score": 34,
+          "max_score": 72,
+          "score_pct": 47.22,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 4,
+          "rubrics_total": 9
+        },
+        "purchasing_agents_except_wholesale_retail_and_farm_products": {
+          "score": 86,
+          "max_score": 262,
+          "score_pct": 32.82,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 11,
+          "rubrics_total": 31
+        },
+        "reporters_and_correspondents": {
+          "score": 20,
+          "max_score": 60,
+          "score_pct": 33.33,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 3,
+          "rubrics_total": 8
+        },
+        "sales_agents_securities_and_commodities": {
+          "score": 10,
+          "max_score": 74,
+          "score_pct": 13.51,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 1,
+          "rubrics_total": 8
+        },
+        "sales_representatives_wholesale_and_manufacturing_technical_and_scientific_products": {
+          "score": 26,
+          "max_score": 186,
+          "score_pct": 13.98,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 3,
+          "rubrics_total": 21
+        },
+        "secretaries_and_administrative_assistants_except_legal_medical_and_executive": {
+          "score": 40,
+          "max_score": 108,
+          "score_pct": 37.04,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 6,
+          "rubrics_total": 13
+        },
+        "social_science_research_assistants": {
+          "score": 56,
+          "max_score": 184,
+          "score_pct": 30.43,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 8,
+          "rubrics_total": 25
+        },
+        "sociology_teachers_postsecondary": {
+          "score": 106,
+          "max_score": 206,
+          "score_pct": 51.46,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 14,
+          "rubrics_total": 25
+        },
+        "statisticians": {
+          "score": 28,
+          "max_score": 236,
+          "score_pct": 11.86,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 4,
+          "rubrics_total": 28
+        },
+        "supply_chain_managers": {
+          "score": 24,
+          "max_score": 104,
+          "score_pct": 23.08,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 4,
+          "rubrics_total": 14
+        },
+        "technical_writers": {
+          "score": 72,
+          "max_score": 210,
+          "score_pct": 34.29,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 10,
+          "rubrics_total": 30
+        },
+        "training_and_development_specialists": {
+          "score": 46,
+          "max_score": 152,
+          "score_pct": 30.26,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 7,
+          "rubrics_total": 22
+        },
+        "web_administrators": {
+          "score": 12,
+          "max_score": 50,
+          "score_pct": 24.0,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 2,
+          "rubrics_total": 8
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "model": "nemotron-3-ultra-opencode",
+      "displayName": "Nemotron 3 Ultra",
+      "family": "NVIDIA",
+      "framework": "OpenCode",
+      "overallScore": 27.2,
+      "totalScore": 1224,
+      "maxScore": 4500,
+      "tasksEvaluated": 65,
+      "rubricsPassed": 174,
+      "rubricsTotal": 569,
+      "rubricPassRate": 30.58,
+      "categoryBreakdown": {
+        "biostatisticians": {
+          "score": 54,
+          "max_score": 130,
+          "score_pct": 41.54,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 6,
+          "rubrics_total": 15
+        },
+        "bookkeeping_accounting_and_auditing_clerks": {
+          "score": 24,
+          "max_score": 140,
+          "score_pct": 17.14,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 4,
+          "rubrics_total": 18
+        },
+        "civil_engineers": {
+          "score": 94,
+          "max_score": 194,
+          "score_pct": 48.45,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 13,
+          "rubrics_total": 25
+        },
+        "computer_and_information_research_scientists": {
+          "score": 10,
+          "max_score": 148,
+          "score_pct": 6.76,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 1,
+          "rubrics_total": 19
+        },
+        "computer_and_information_systems_managers": {
+          "score": 28,
+          "max_score": 118,
+          "score_pct": 23.73,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 4,
+          "rubrics_total": 15
+        },
+        "computer_user_support_specialists": {
+          "score": 38,
+          "max_score": 138,
+          "score_pct": 27.54,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 6,
+          "rubrics_total": 18
+        },
+        "court_clerks": {
+          "score": 0,
+          "max_score": 76,
+          "score_pct": 0.0,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 0,
+          "rubrics_total": 10
+        },
+        "customer_service_representatives": {
+          "score": 22,
+          "max_score": 76,
+          "score_pct": 28.95,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 3,
+          "rubrics_total": 10
+        },
+        "data_entry_keyers": {
+          "score": 80,
+          "max_score": 152,
+          "score_pct": 52.63,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 11,
+          "rubrics_total": 20
+        },
+        "financial_managers_branch_or_department": {
+          "score": 22,
+          "max_score": 156,
+          "score_pct": 14.1,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 3,
+          "rubrics_total": 20
+        },
+        "human_resources_specialists": {
+          "score": 6,
+          "max_score": 64,
+          "score_pct": 9.38,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 1,
+          "rubrics_total": 8
+        },
+        "lawyers": {
+          "score": 24,
+          "max_score": 48,
+          "score_pct": 50.0,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 4,
+          "rubrics_total": 8
+        },
+        "licensing_examiners_and_inspectors": {
+          "score": 48,
+          "max_score": 72,
+          "score_pct": 66.67,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 7,
+          "rubrics_total": 10
+        },
+        "management_analysts": {
+          "score": 30,
+          "max_score": 240,
+          "score_pct": 12.5,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 4,
+          "rubrics_total": 28
+        },
+        "mechanical_engineering_technicians": {
+          "score": 86,
+          "max_score": 206,
+          "score_pct": 41.75,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 13,
+          "rubrics_total": 27
+        },
+        "mechanical_engineers": {
+          "score": 0,
+          "max_score": 66,
+          "score_pct": 0.0,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 0,
+          "rubrics_total": 9
+        },
+        "medical_and_health_services_managers": {
+          "score": 22,
+          "max_score": 160,
+          "score_pct": 13.75,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 3,
+          "rubrics_total": 17
+        },
+        "medical_secretaries": {
+          "score": 20,
+          "max_score": 78,
+          "score_pct": 25.64,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 3,
+          "rubrics_total": 10
+        },
+        "online_merchants": {
+          "score": 26,
+          "max_score": 112,
+          "score_pct": 23.21,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 4,
+          "rubrics_total": 15
+        },
+        "personal_financial_advisors": {
+          "score": 6,
+          "max_score": 78,
+          "score_pct": 7.69,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 1,
+          "rubrics_total": 9
+        },
+        "petroleum_engineers": {
+          "score": 6,
+          "max_score": 50,
+          "score_pct": 12.0,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 1,
+          "rubrics_total": 6
+        },
+        "police_fire_and_ambulance_dispatchers": {
+          "score": 44,
+          "max_score": 94,
+          "score_pct": 46.81,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 5,
+          "rubrics_total": 10
+        },
+        "producers": {
+          "score": 24,
+          "max_score": 72,
+          "score_pct": 33.33,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 3,
+          "rubrics_total": 9
+        },
+        "purchasing_agents_except_wholesale_retail_and_farm_products": {
+          "score": 80,
+          "max_score": 262,
+          "score_pct": 30.53,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 10,
+          "rubrics_total": 31
+        },
+        "reporters_and_correspondents": {
+          "score": 18,
+          "max_score": 60,
+          "score_pct": 30.0,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 3,
+          "rubrics_total": 8
+        },
+        "sales_agents_securities_and_commodities": {
+          "score": 8,
+          "max_score": 74,
+          "score_pct": 10.81,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 1,
+          "rubrics_total": 8
+        },
+        "sales_representatives_wholesale_and_manufacturing_technical_and_scientific_products": {
+          "score": 22,
+          "max_score": 186,
+          "score_pct": 11.83,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 3,
+          "rubrics_total": 21
+        },
+        "secretaries_and_administrative_assistants_except_legal_medical_and_executive": {
+          "score": 30,
+          "max_score": 108,
+          "score_pct": 27.78,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 5,
+          "rubrics_total": 13
+        },
+        "social_science_research_assistants": {
+          "score": 60,
+          "max_score": 184,
+          "score_pct": 32.61,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 9,
+          "rubrics_total": 25
+        },
+        "sociology_teachers_postsecondary": {
+          "score": 54,
+          "max_score": 206,
+          "score_pct": 26.21,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 7,
+          "rubrics_total": 25
+        },
+        "statisticians": {
+          "score": 44,
+          "max_score": 236,
+          "score_pct": 18.64,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 6,
+          "rubrics_total": 28
+        },
+        "supply_chain_managers": {
+          "score": 6,
+          "max_score": 104,
+          "score_pct": 5.77,
+          "tasks_evaluated": 2,
+          "rubrics_passed": 1,
+          "rubrics_total": 14
+        },
+        "technical_writers": {
+          "score": 94,
+          "max_score": 210,
+          "score_pct": 44.76,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 14,
+          "rubrics_total": 30
+        },
+        "training_and_development_specialists": {
+          "score": 76,
+          "max_score": 152,
+          "score_pct": 50.0,
+          "tasks_evaluated": 3,
+          "rubrics_passed": 12,
+          "rubrics_total": 22
+        },
+        "web_administrators": {
+          "score": 18,
+          "max_score": 50,
+          "score_pct": 36.0,
+          "tasks_evaluated": 1,
+          "rubrics_passed": 3,
+          "rubrics_total": 8
+        }
+      }
+    },
+    {
+      "rank": 19,
       "model": "gpt-5-2-opencode",
       "displayName": "GPT-5.2",
       "family": "OpenAI",
@@ -3308,7 +4196,7 @@
       "categoryBreakdown": {}
     },
     {
-      "rank": 17,
+      "rank": 20,
       "model": "claude-sonnet-4-5-opencode",
       "displayName": "Claude Sonnet 4.5",
       "family": "Anthropic",
@@ -3604,7 +4492,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 21,
       "model": "gemini-3-1-pro-opencode",
       "displayName": "Gemini 3.1 Pro",
       "family": "Google",
@@ -4012,7 +4900,7 @@
     "web_administrators": 1
   },
   "totalTasks": 65,
-  "totalModels": 16,
+  "totalModels": 21,
   "totalCategories": 35,
   "totalRubrics": 569,
   "totalCriteria": 2066
