@@ -14,6 +14,8 @@ const FAMILY_VAR: Record<string, string> = {
   MiniMax: "var(--fam-minimax)",
   Zhipu: "var(--fam-zhipu)",
   Meta: "var(--fam-meta)",
+  "Thinking Machines": "var(--fam-thinking-machines)",
+  NVIDIA: "var(--fam-nvidia)",
   Other: "var(--fam-other)",
 };
 
@@ -27,6 +29,8 @@ const FAMILY_LOGO: Record<string, string> = {
   MiniMax: "/logos/minimax.png",
   Zhipu: "/logos/zhipu.png",
   Meta: "/logos/meta.png",
+  "Thinking Machines": "/logos/thinking-machines.png",
+  NVIDIA: "/logos/nvidia.png",
 };
 
 function RankBadge({ rank }: { rank: number }) {
